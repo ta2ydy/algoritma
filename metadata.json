@@ -1,0 +1,6 @@
+{
+  "name": "Bilişim Lab 5",
+  "description": "MEB 5. Sınıf Bilişim Teknolojileri ve Yazılım müfredatına uygun etkileşimli öğrenme atölyesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
